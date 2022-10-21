@@ -16,7 +16,7 @@ cadeia alfabeto[26] = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l
 	
 	{
 
-	     escreva("qual a frase a ser criptografada? ")
+	     escreva("Qual a frase precisa ser criptografada? ")
 		leia(frase)
 
 		escreva("Qual a cahve desejada?")
